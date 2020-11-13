@@ -1,0 +1,20 @@
+.car {
+    display: flex;
+    margin-top: 10px;
+
+}
+.car__heading{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.car__leftbar{
+    width: 28%;
+    margin-top: 10px;
+    margin-left: 20px;
+
+}
+
+.car__rightbar{
+    width: 72%;
+}

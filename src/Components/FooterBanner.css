@@ -1,0 +1,67 @@
+.banner1{
+    width: auto;
+    height:400%;
+    display: flex;
+    object-fit: contain;
+    float: center;
+}
+
+.footer__banner{
+    display: flex;
+    margin-top: 10px;
+    background-color: #f9f8f7;
+}
+
+.footer__heading{
+    display: flex;
+    object-fit: contain;
+    margin-left: 60px;
+    margin-top: 25px;
+}
+
+.footer__para{
+    display: flex;
+    object-fit: contain;
+    text-align: justify;
+    font-weight: 400;
+    font-size: 18px;
+    margin-top: 80px;
+    margin-left: -21%;
+}
+
+.vertical__line{
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 20px;
+    width: 2px;
+    height: 130px;
+    background-color: silver;
+}
+
+.footer__button{
+    display: flex;
+    object-fit: contain;
+    margin-left: 30px;
+    margin-top: 55px;
+}
+
+.footer__app{
+    cursor: pointer;
+    width: auto;
+    height:100px;
+    margin-top: 48px;
+    margin-left: -11%;
+    display: flex;
+    object-fit: contain;
+
+}
+
+.footer__google{
+    cursor: pointer;
+    width: auto;
+    height:123px;
+    display: flex;
+    margin-top: 37px;
+    object-fit: contain;
+
+}

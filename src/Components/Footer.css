@@ -1,0 +1,149 @@
+.footer {
+    display: flex;
+    align-items: center;
+    object-fit: contain;
+    margin-top: -15px;
+    color: #969b9c;
+}
+
+.footer > h5 {
+   color: brown;
+}
+
+.footer__popular {
+    cursor: pointer;
+    margin-left: 20px;
+}
+
+.footer__popular > span {
+    font-size: 14px;
+}
+
+.footer__popular > span:hover {
+    font-size: 14px;
+    color: #023e50;
+}
+
+.footer__trading{
+    cursor: pointer;
+    margin-left: 5%;
+}
+
+.footer__trading > span{
+    font-size: 14px;
+}
+.footer__trading > span:hover {
+    font-size: 14px;
+    color: #023e50;
+}
+
+.footer__about{
+    cursor: pointer;
+    margin-left: 7%;
+}
+
+.footer__about > span{
+    font-size: 14px;
+}
+.footer__about > span:hover {
+    font-size: 14px;
+    color: #023e50;
+}
+
+.footer__olx{
+    cursor: pointer;
+    margin-top: -18px;
+    margin-left: 7%;
+}
+
+.footer__olx > span{
+    font-size: 14px;
+}
+.footer__olx > span:hover {
+    font-size: 14px;
+    font-weight: 450;
+    color: #023e50;
+}
+
+.footer__follow{
+    display: flex;
+    cursor: pointer;
+    margin-left: 7%;
+    margin-top: 10px;
+}
+
+.footer__follow > span{
+    font-size: 14px;
+}
+.footer__follow > span:hover {
+    font-size: 14px;
+    font-weight: 400;
+    color: #023e50;
+}
+
+.footer__app2{
+    cursor: pointer;
+    width: auto;
+    height:80px;
+    margin-top: 62px;
+    margin-left: -11%;
+    display: flex;
+    object-fit: contain;
+    margin-left: -23%;
+}
+
+.footer__google2{
+    cursor: pointer;
+    width: auto;
+    height:103px;
+    display: flex;
+    margin-top: 50px;
+    object-fit: contain;
+}
+
+.footer__social{
+    cursor: pointer;
+    width: auto;
+    height:20px;
+    display: flex;
+    margin-top: 12px;
+    object-fit: contain;
+    margin-left: -24%;
+}
+
+.footer__fb{
+    cursor: pointer;
+    width: auto;
+    height:20px;
+    margin-top: 30px;
+    margin-left: 8%;
+}
+
+.footer__tw{
+    cursor: pointer;
+    width: auto;
+    height:20px;
+    margin-top: 30px;
+    margin-left: 8%;
+}
+
+.footer__yt{
+    cursor: pointer;
+    width: auto;
+    height:16px;
+    margin-top: 32px;
+    margin-left: 8%;
+}
+
+.footer__ig{
+    cursor: pointer;
+    width: auto;
+    height:22px;
+    margin-top: 30px;
+    margin-left: 8%;
+}
+
+.footer__fo{
+    color: black;
+    margin-top: 20px;
+}

@@ -1,0 +1,8 @@
+.banner{
+    width: auto;
+    height:auto;
+    display: flex;
+    object-fit: contain;
+    float: center;
+    margin-top: 12px;
+}

@@ -1,0 +1,36 @@
+.foot{
+    display: flex;
+    width: 100%;
+    height: 35px;
+    background-color: #002F34;
+    color: white;
+    font-size: 12px;
+}
+
+.foot__contry{
+    display: flex;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 25px;
+    font-weight: bold;
+}
+
+.foot__other{
+    font-size: 12px;
+    font-weight: 400;
+    margin-left: 10px;
+}
+
+.foot__cont{
+    display: flex;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 54%;
+    font-weight: bold;
+}
+
+.foot__sun{
+    font-size: 12px;
+    font-weight: 400;
+    margin-left: 10px;
+}
