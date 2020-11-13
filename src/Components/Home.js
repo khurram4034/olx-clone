@@ -75,32 +75,32 @@ function Home() {
 
             <div className='home__fproduct'>
             <div className="home__row">
-                    <Product
+            <Product
                         id="130"
-                        image="https://apollo-singapore.akamaized.net/v1/files/tpagk7334bl92-PK/image;s=300x600;q=60"
+                        image="https://apollo-singapore.akamaized.net/v1/files/yih5psd6avie-PK/image;"
                         title="The Lean Startup"
                         price={78.98}
                     />
 
                     <Product
                         id="130"
-                        image="https://apollo-singapore.akamaized.net/v1/files/g5w88oqgk5y33-PK/image"
+                        image="https://apollo-singapore.akamaized.net/v1/files/u0z2ndayvno32-PK/image;"
                         title="The Lean Startup Constan"
                         price={18.98}  
                     />
 
                     <Product
                         id="194"
-                        image="https://apollo-singapore.akamaized.net/v1/files/z4ee63w5jxps-PK/image;s=300x600;q=60"
+                        image="https://apollo-singapore.akamaized.net/v1/files/vjyqtdw9txb6-PK/image;"
                         title="Innovation Creates"
                         price={45.98} 
                     />
 
                     <Product
-                        id="185"
-                        image="https://apollo-singapore.akamaized.net/v1/files/825d7ji4u5281-PK/image;s=300x600;q=60"
-                        title="How Constant Innovation Creates"
-                        price={110.45} 
+                        id="130"
+                        image="https://apollo-singapore.akamaized.net/v1/files/u2wxkak99z7e3-PK/image;"
+                        title="The Lean Startup"
+                        price={78.98}
                     />
 
                 </div>
